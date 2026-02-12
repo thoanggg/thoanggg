@@ -5,15 +5,6 @@
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFkd3g1a2c5djB0NWp1emprd21sNHNrNTh3cnBldG1ldm83aXNxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 </div>
 
-###
-
-<div align="center">
-###
-  <img src="https://raw.githubusercontent.com/thoanggg/thoanggg/output/snake.svg" alt="Snake animation" />
-###
-</div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
@@ -57,13 +48,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=thoanggg&show_icons=true&theme=dracula&hide_border=true" alt="Thang Vu's Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoanggg&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
-###
