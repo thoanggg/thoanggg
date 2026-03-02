@@ -42,7 +42,7 @@
 <h3 align="left">TryHackMe Badge</h3>
 
 <div>
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+  <a href="https://tryhackme.com/p/thangvuduc.hg">
     <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5252067" alt="TryHackMe Badge">
   </a>
 </div>
