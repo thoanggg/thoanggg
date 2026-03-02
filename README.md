@@ -46,5 +46,9 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </div>
 
+<h3 align="left">TryHackMe Badge</h3>
+<div>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5252067" style='border:none;'></iframe>
+</div>
 ###
 
