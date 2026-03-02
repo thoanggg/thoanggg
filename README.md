@@ -43,6 +43,6 @@
 
 <div>
   <a href="https://tryhackme.com/p/thangvuduc.hg">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5252067" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/thangvuduc.hg.png" alt="Your Image Badge" />
   </a>
 </div>
