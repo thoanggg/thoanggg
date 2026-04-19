@@ -20,8 +20,7 @@
 </p>
 
 <h3 align="left">🛠 Language and tools</h3>
-
-<div align="left" style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+<div align="left" style="display:flex; flex-wrap:nowrap; gap:10px; overflow-x:auto;">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
